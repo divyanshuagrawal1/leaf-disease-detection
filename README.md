@@ -59,13 +59,6 @@ vision AI.
 
 ![PDF report export](Media/readme-pdf-report.png)
 
-## 🎬 Demo Video
-
-[Watch the LeafCare AI demonstration video](Media/leafcare-demo.mp4)
-
-GitHub does not consistently render MP4 files inline in a README. Open
-the video link above to view the demonstration.
-
 ## 🧱 Architecture
 
 ``` text
